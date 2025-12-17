@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/OpenFreeEnergy/pontibus/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: f28ed8ad63fb1d17ca687c29500c29c00650e089656285313ccf049ac6533db8
+  sha256: 787d95f0086074d842440cad6e8da3c830ab434427a1837e379e42f2c49cbce6
 
 build:
   noarch: python
